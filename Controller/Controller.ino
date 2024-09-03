@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 https://raw.githubusercontent.com/ricardoquesada/esp32-arduino-lib-builder/master/bluepad32_files/package_esp32_bluepad32_index.json
 
 https://gitlab.com/ricardoquesada/bluepad32/-/tree/main
-https://bluepad32.readthedocs.io/en/latest/plat_arduino/  */
+https://bluepad32.readthedocs.io/en/latest/plat_arduino/  - Meki*/
 
 #include <Bluepad32.h>
 

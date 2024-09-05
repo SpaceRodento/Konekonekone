@@ -1,4 +1,5 @@
 /* Adafruitin chopper DC-moottorin käsittelyyn:
+https://learn.adafruit.com/adafruit-drv8871-brushed-dc-motor-driver-breakout/usage
 https://learn.adafruit.com/adafruit-drv8871-brushed-dc-motor-driver-breakout/overview
 - Meki
 */

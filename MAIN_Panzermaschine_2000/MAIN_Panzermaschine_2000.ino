@@ -11,7 +11,7 @@
 
   Some tidbits to check
 
-  -Install the esp32 boards manager into the arduino IDE"
+! -Install the esp32 boards manager into the arduino IDE"
   Programming Electronics Academy has a good tutorial: https://youtu.be/py91SMg_TeY?si=m1OWPBPlK-QHJ2Xx"
   -Select "ESP32 Dev Module" under tools>Board>ESP32 Arduino before uploading sketch.
   -The following include statements with comments "by -----" are libraries that can be installed
@@ -19,8 +19,8 @@
 */
 #include <Arduino.h>
 
-#include <ESP32Servo.h> // by Kevin Harrington
-#include <ESPAsyncWebSrv.h> // by dvarrel
+#include <ESP32Servo.h> // by Kevin Harrington (install)
+#include <ESPAsyncWebSrv.h> // by dvarrel     (install)
 #include <iostream>
 #include <sstream>
 
